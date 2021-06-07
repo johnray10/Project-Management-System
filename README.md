@@ -2,7 +2,7 @@
 
 • My Project
 
-• Duration: Apr 1 - 5, 2020
+• Duration: Apr 12- 16, 2020
 
 • IDE: Visual Studio Code
 
